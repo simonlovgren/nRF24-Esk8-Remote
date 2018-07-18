@@ -1,0 +1,3 @@
+[submodule "lib/VescUartControl"]
+	path = lib/VescUartControl
+	url = git@github.com:RollingGecko/VescUartControl.git
